@@ -21,7 +21,7 @@ myFunction();
 
 
 
-/* 🚀🚀🚀 Task 2: Counter 🚀🚀🚀 */
+/* 🚀🚀🚀 Task 2: Counter 🚀🚀🚀 */x
 /* Use summation to do the following:
     1. Receive a number 
     2. Use a counter to return the summation of that number. 
