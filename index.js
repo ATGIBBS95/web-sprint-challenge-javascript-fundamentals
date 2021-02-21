@@ -63,7 +63,7 @@ const zooAnimals = [
     return displayNames.push(names)
     
     })
-     console.log(displayNames);
+    // console.log(displayNames);
     
   }
   
